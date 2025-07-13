@@ -5,7 +5,8 @@ Skills Assessment – Tech UI Track
 the requried image :
 <img width="1283" height="722" alt="image" src="https://github.com/user-attachments/assets/9724c54c-6a0d-405f-af36-4710d6b39832" />
 my assgment image :
-<img width="893" height="504" alt="image" src="https://github.com/user-attachments/assets/ba177bb1-afa7-4b39-b167-d94c2b76aa75" />
+<img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/b407c707-04b4-4da6-9114-65373981dccd" />
+
 
 I have fully implemented the requirements in my project as follows:
 
